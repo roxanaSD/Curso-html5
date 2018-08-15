@@ -1,0 +1,89 @@
+
+
+#nom
+{
+  font-size: 25px;
+  color: yellow;
+}
+
+#cor
+{
+  font-size: 26px;
+  color: blue;
+}
+
+#telef
+{
+  font-size: 30px;
+  color: yellow;
+}
+
+
+  
+#general
+{
+  background-color: green;
+  border-radius: 5px;
+  color: yellow;
+  font-size: 20px;
+}
+
+#cabezera
+{
+  background: #FFFBB9;
+  border: 1px #999999;
+  padding: 20px;
+}
+
+
+
+#campoApellidos
+{
+  width: 960px;
+  margin: 15px auto;
+  text-align: center;
+}
+
+nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 400 px;
+  border-color: #f1f1f1;
+}
+
+li a{
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: underline;
+}
+
+li a:hover {
+  border-color: green;
+  color: white;
+}
+
+header{
+  display: inline-block;
+  text-align: center;
+}
+
+#centrar2{
+  text-align: center;
+  display: flex;
+}
+
+body{
+  text-align: center;
+}
+
+table,tr,th,td
+{
+  border: 1px solid black;
+}
+
+h2::first-letter
+{
+  font-size: 2em;
+}
